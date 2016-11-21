@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "react-firebase-test-b9186",
+    "staging": "react-firebase-test-staging"
+  }
+}
